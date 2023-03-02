@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrentWeatherDataBinding</string>
+    <string name="api_key">26dcbaa2166e40cba6b94a096b6af992</string>
+    <string-array name="cites">
+        <item>Irkutsk</item>
+    </string-array>
+</resources>
